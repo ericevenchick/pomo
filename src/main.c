@@ -3,8 +3,8 @@
 
 /* enumeration of the two Pomodoro phases: work and break */
 enum phases {
-    PHASE_WORK = 0, /**< Work phase */
-    PHASE_BREAK = 1 /**< Break phase */
+    PHASE_WORK = 0,
+    PHASE_BREAK = 1
 };
 
 /* one minute in milliseconds */
