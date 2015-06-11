@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "eric@evenchick.com",
+    "longName": "Pomo",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Pomo",
+    "uuid": "51cc3159-81bc-43c4-8fd0-bf28f0c856f9",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
